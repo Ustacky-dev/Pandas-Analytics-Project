@@ -69,7 +69,7 @@ Diplay result that shows the Payment channel used by most customers to pay for e
 # Insights
 The insights obtained from project's analysis are as follows:
 
-Data set is large with exactly 68,000 elements (4000 rows and 17 columns),
+Data set is large with exactly 34,000 elements (2000 rows and 17 columns),
 
 The elements for categorical raw data are complete,
 
@@ -87,6 +87,7 @@ More information can be obtained from this project by including data cleaning an
 
 # Standout Section
 Use of appropriate methods & descriptions to explore other columns such as Unit Price, Quantity in Aggregation with GroupBy.
+A barplot was made to display the gross income for each city.
 
 # Executive Summary.
 Summary
