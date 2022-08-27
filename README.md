@@ -61,7 +61,7 @@ Step 5 -  Aggregation with GroupBy
 
 Step 6 - Data Visualization
   Appropriate use of countplot to determine the branch with the highest sales record,
-  Optional - Appropriate use of countplot to determine the most used payment method & city with the most sales,
+  Appropriate use of countplot to determine the most used payment method & city with the most sales,
   Appropriate use of countplot to determine the highest & lowest sold product line,
 Diplay result that shows the Payment channel used by most customers to pay for each product line with Chart showing the "product line" column on the Y-axis, and   the  "hue" parameter for the "Payment" column,
 
@@ -69,7 +69,7 @@ Diplay result that shows the Payment channel used by most customers to pay for e
 # Insights
 The insights obtained from project's analysis are as follows:
 
-Data set is large with exactly 34,000 elements (2000 rows and 17 columns),
+Data set is large with exactly 17,000 elements (1000 rows and 17 columns),
 
 The elements for categorical raw data are complete,
 
@@ -78,7 +78,20 @@ Python packages such as pandas analytical tools, Numpy, and Matplotlib as well a
 Coding lines are not too restictive, i.e packages are user-friendly and flexible. Users creativity shows that usage can be interesting,
 
 Some 'take-home' facts about the company XYZ include:
-Sales of Electronic and fashion accessories are almost at par. Sales across cities are very competitive with close matching records.
+Sales of Electronic and fashion accessories are almost at par. Sales across cities are very competitive with close matching records. However some details from analyses include:
+    -Branch A has the highest sales record.
+    -The most used payment method is Epay with a count of 345.
+    -The City with the most sales is Lagos.
+    -The highest product line sold is Fashion accessories.
+    -The lowest product line sold is Health and Beauty.
+    -Females purchased higher quantity of products. This might be explained by the higher tendency of women to always go shopping than men.
+    -Branch with the lowest rating is B
+    -Branch A had slightly higher normal customers than member customers.
+    -Branch B had almost equal number of Member and normal customers' patronage.
+    -Branch C had more member customers than normal customers.
+    -Though quantities purchased for product lines generally are low, most customers prefer using Cash and Epay payment methods.
+    -Home and lifestyle gave the highest overall income followed closely by Sports and travel.
+This is supported by the fact that home most home utilities are essentials used by a large population of people
 
 Though quantities purchased for product lines generally are low, most customers prefer using Cash and Epay payment methods.
 
@@ -87,7 +100,11 @@ More information can be obtained from this project by including data cleaning an
 
 # Standout Section
 Use of appropriate methods & descriptions to explore other columns such as Unit Price, Quantity in Aggregation with GroupBy.
-A barplot was made to display the gross income for each city.
+A barplot was made to:
+    Display and the gross income for each city.
+    Determine the highest customer type patronage;
+    Determine the Rating distribution.
+    Determine the gender with the highest product purchases.
 
 # Executive Summary.
 Summary
@@ -108,7 +125,5 @@ Python packages such as pandas analytical tools, Numpy, and Matplotlib as well a
 
 Coding lines are not too restictive, i.e packages are user-friendly and flexible. Users creativity shows that usage can be interesting.
 
-Some 'take-home' facts about the company XYZ include:
-Sales of Electronic and fashion accessories are almost at par. Sales across cities are very competitive with close matching records.
-
-Though quantities purchased for product lines generally are low, most customers prefer using Cash and Epay payment methods.
+A 'take-home' fact about the company XYZ include:
+Sales of Electronic and fashion accessories are almost at par. Sales across cities are very competitive with close matching records. 
