@@ -109,7 +109,7 @@ A barplot was made to:
 # Executive Summary.
 Summary
 
-Data set is large with exactly 68,000 elements (4000 rows and 17 columns).
+Data set is large with exactly 17,000 elements (1000 rows and 17 columns).
 
 The elements for categorical raw data are complete.
 
