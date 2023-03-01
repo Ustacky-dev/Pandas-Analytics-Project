@@ -34,11 +34,7 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
        * Determine the branch with the lowest rating
        * Generate visualization for the "product line" per gender
        * Generate visualization for the "product line" per "Total" column
-       
-  
-
-To-Do - Explain in detail, the project steps and overview of different tasks completed here.
-
+       * plot Product line per unit price, and Product line per Quantity
 # Insights
 
 To-Do - Explain the insights you were able to uncover from the analysing the datasets.
