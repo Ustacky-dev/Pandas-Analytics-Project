@@ -8,7 +8,9 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
 * Various liberies were imported such as: os, glob, numpy, pandas, matplotlib.pyplot etc
 * The data containing information of each branch in the 3 major cities were loaded and combined using pd.concat to form a single dataframe with csv extention and then   save as a new file in the local directory conataining the project.
     # The first major task was data exploration
-       * The first 5 rows of the newly created file 'Market_data.csv' was displayed 
+       * The first 5 rows of the newly created file 'Market_data.csv' was displayed
+       * no of rows and columns was checked
+       *  
 
 To-Do - Explain in detail, the project steps and overview of different tasks completed here.
 
