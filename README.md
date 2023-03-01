@@ -12,6 +12,13 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
        * no of rows and columns was checked using df.shape
        * check various column name in the dataset using df.columns 
        * statistical surmary was checked using df.describe()
+       * Missing data was checked using the isnull
+       * General Information of the data was checked using .info
+    # The second: Dealing with datetime features
+       * Convert the date column to datetime
+       * The above was also done for the time column
+       * Extract year, month and day from the date column and also hour from from the time column
+       * Determine the unique ours of sales in the supermarket and return an array of the hours 
 
 To-Do - Explain in detail, the project steps and overview of different tasks completed here.
 
