@@ -22,6 +22,10 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
     # Check for unique value in columns
        * Get a list of the categorical column in the dataset, check if each element in the column is of type object
        * generate the unique values in the categorical columns in this case, Payment, product line, gender and customer type
+       * Get a Series containing counts of unique values for various categories
+    # Aggregration with GroupBy
+       * Create a groupby object with the "City Column", and aggregation function of sum and mean.
+       * Display a table that shows the gross income of each city, and determine the city with the highest total gross income.
 
 To-Do - Explain in detail, the project steps and overview of different tasks completed here.
 
