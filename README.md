@@ -52,6 +52,7 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
       * It is observed that the most expensive 'product line' is the 'food and beverages' and it is mostly bought by the female gender.
 # Future Work
 I will explore the  dateset for types of customers to be sure that both new and old customers are maintained.
+I will also check for specific sales per month to know the monthly trend of the market
 I will explore other data visualization framework to get a more understandable presentation.  
 
 # Standout Section
