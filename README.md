@@ -42,12 +42,12 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
       * Each city is represented as branch; A - Lagos Branch; B - Abuja Branch; C - Port Harcourt Branch
       * Dataset contains no null values
       * The dataset contains records of 501 female customer and 499 male customers
-      * Port-Harcourt records the highest revenue(gross income) while Lagos follows next and the Abuja
-      *Lagos has the highest no of customers while followed by abuja and the least is Port-Harcourt
+      * Port-Harcourt (C) records the highest revenue(gross income) while Lagos (A) follows next and then Abuja (B)
+      * 'A' has the highest no of customers while followed by 'B' and the least is 'C'
       * The most used payment method in general is EBAY and the least is Card
-      * The most sold product line in all 3 branches is food and beverages in the city of Port-Harcourt, next is Home and lifestyle in Lagos and the 3rd most sold productline is 'fashion and accessories' in Port-Harcourt. However, in Abuja, the most sold is 'Travel and sport'.
-      * The most used payment method with resp to 'Product line' is Cash
-      * The branch with the lowest rating is "A" which stands for "Abuja"
+      * The most sold product line in all 3 branches is 'food and beverages' in 'C', next is 'Home and lifestyle' in 'A' and the 3rd most sold productline is 'fashion and accessories' in 'C'. However, in 'B', the most sold is 'Travel and sport'.
+      * The most used payment method with respect to 'Product line' is Cash
+      * The branch with the lowest rating is "A" while '
       
 To-Do - Explain the insights you were able to uncover from the analysing the datasets.
 
