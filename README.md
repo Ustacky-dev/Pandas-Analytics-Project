@@ -36,7 +36,19 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
        * Generate visualization for the "product line" per "Total" column
        * plot Product line per unit price, and Product line per Quantity
 # Insights
-
+      Insights gotten from analysing the dataset consisting of sales record of the 3 branches( Lagos, Abuja and Port-Harcourt) of the supermarket belonging to Company XYZ are:
+     
+      * Dataset consist of !000 rows and 18 columns
+      * Each city is represented as branch; A - Lagos Branch; B - Abuja Branch; C - Port Harcourt Branch
+      * Dataset contains no null values
+      * The dataset contains records of 501 female customer and 499 male customers
+      * Port-Harcourt records the highest revenue(gross income) while Lagos follows next and the Abuja
+      *Lagos has the highest no of customers while followed by abuja and the least is Port-Harcourt
+      * The most used payment method in general is EBAY and the least is Card
+      * The most sold product line in all 3 branches is food and beverages in the city of Port-Harcourt, next is Home and lifestyle in Lagos and the 3rd most sold productline is 'fashion and accessories' in Port-Harcourt. However, in Abuja, the most sold is 'Travel and sport'.
+      * The most used payment method with resp to 'Product line' is Cash
+      * The branch with the lowest rating is "A" which stands for "Abuja"
+      
 To-Do - Explain the insights you were able to uncover from the analysing the datasets.
 
 # Future Work
