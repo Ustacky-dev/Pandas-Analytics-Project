@@ -48,17 +48,13 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
       * The most sold product line in all 3 branches is 'food and beverages' in 'C', next is 'Home and lifestyle' in 'A' and the 3rd most sold productline is 'fashion and accessories' in 'C'. However, in 'B', the most sold is 'Travel and sport'.
       * The most used payment method with respect to 'Product line' is Cash
       * The branch with the lowest rating is "B" while 'C' has the highest
-      
-To-Do - Explain the insights you were able to uncover from the analysing the datasets.
-
+      * It is observed that the most frequent customers are of the female gender and the most bought product is the 'Home and lifestyle'.
+      * It is observed that the most expensive 'product line' is the 'food and beverages' and it is mostly bought by the female gender.
 # Future Work
-
-To-Do - Suggest tasks you might include in future work to make this project more robust.
+I will explore other data visualization framework to get a more understandable presentation.  
 
 # Standout Section
-
-To-Do - Explain what you did differently in the project following the instructions in the notebook.
+I insert all required liberies in the first cell of my work for the purpose of orderliness unlike the import intruction stated in the notebook
+I extracted the minute feature from the Time column and saved it to a new minute column
 
 # Executive Summary.
-
-To-Do - Include your Executive Summary document in your repository.
