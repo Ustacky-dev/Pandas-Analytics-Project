@@ -47,7 +47,7 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
       * The most used payment method in general is EBAY and the least is Card
       * The most sold product line in all 3 branches is 'food and beverages' in 'C', next is 'Home and lifestyle' in 'A' and the 3rd most sold productline is 'fashion and accessories' in 'C'. However, in 'B', the most sold is 'Travel and sport'.
       * The most used payment method with respect to 'Product line' is Cash
-      * The branch with the lowest rating is "A" while '
+      * The branch with the lowest rating is "B" while 'C' has the highest
       
 To-Do - Explain the insights you were able to uncover from the analysing the datasets.
 
