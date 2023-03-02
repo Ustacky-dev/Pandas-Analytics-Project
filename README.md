@@ -56,7 +56,7 @@ I will also check for specific sales per month to know the monthly trend of the 
 I will explore other data visualization framework to get a more understandable presentation.  
 
 # Standout Section
-I inserted all required liberies in the first cell of my work for the purpose of orderliness unlike the import intruction stated in the notebook
+I inserted all required liberies in the first cell of my work for the purpose of orderliness unlike the import instruction stated in the notebook.
 I extracted the minute feature from the Time column and saved it to a new minute column
 
 # Executive Summary.
