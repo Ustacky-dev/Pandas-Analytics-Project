@@ -38,7 +38,7 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
 # Insights
       Insights gotten from analysing the dataset consisting of sales record of the 3 branches( Lagos, Abuja and Port-Harcourt) of the supermarket belonging to Company XYZ are:
      
-      * Dataset consist of !000 rows and 18 columns
+      * Dataset consist of 1000 rows and 18 columns
       * Each city is represented as branch; A - Lagos Branch; B - Abuja Branch; C - Port Harcourt Branch
       * Dataset contains no null values
       * The dataset contains records of 501 female customer and 499 male customers
@@ -54,7 +54,7 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
 I will explore other data visualization framework to get a more understandable presentation.  
 
 # Standout Section
-I insert all required liberies in the first cell of my work for the purpose of orderliness unlike the import intruction stated in the notebook
+I inserted all required liberies in the first cell of my work for the purpose of orderliness unlike the import intruction stated in the notebook
 I extracted the minute feature from the Time column and saved it to a new minute column
 
 # Executive Summary.
